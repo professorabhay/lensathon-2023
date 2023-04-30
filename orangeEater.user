@@ -1,0 +1,237 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1552100375417393:237671",
+                "1570744797228069:168441",
+                "1570754551559963:732158"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Behavior"
+                ],
+                [
+                    "Default"
+                ],
+                [
+                    "Default",
+                    "echopark_diff"
+                ],
+                [
+                    "Default",
+                    "echopark_spec"
+                ],
+                [
+                    "Fonts"
+                ],
+                [
+                    "Fonts",
+                    "jellee_roman"
+                ],
+                [
+                    "Gold"
+                ],
+                [
+                    "Occluder"
+                ],
+                [
+                    "Orange"
+                ],
+                [
+                    "Orange Container"
+                ],
+                [
+                    "OrangeFXB"
+                ],
+                [
+                    "OrangeFXB",
+                    "Animations"
+                ],
+                [
+                    "OrangeFXB",
+                    "Materials",
+                    "Inside"
+                ],
+                [
+                    "OrangeFXB",
+                    "Materials",
+                    "Leaf"
+                ],
+                [
+                    "OrangeFXB",
+                    "Materials",
+                    "Outside"
+                ],
+                [
+                    "OrangeFXB",
+                    "Materials",
+                    "Outside Orange"
+                ],
+                [
+                    "OrangeFXB",
+                    "Meshes",
+                    "HOrange"
+                ],
+                [
+                    "OrangeFXB",
+                    "Meshes",
+                    "HOrange 2"
+                ],
+                [
+                    "OrangeFXB",
+                    "Meshes",
+                    "Orange"
+                ],
+                [
+                    "OrangeFXB",
+                    "Meshes",
+                    "Orange 2"
+                ],
+                [
+                    "OrangeFXB",
+                    "OrangeFXB"
+                ],
+                [
+                    "Scripts",
+                    "Food"
+                ],
+                [
+                    "Scripts",
+                    "FoodController"
+                ],
+                [
+                    "Scripts",
+                    "GetPosition"
+                ],
+                [
+                    "Scripts",
+                    "Gravity"
+                ],
+                [
+                    "Scripts",
+                    "Rotate"
+                ],
+                [
+                    "Scripts",
+                    "SimpleHighScoreController"
+                ],
+                [
+                    "Scripts",
+                    "Test"
+                ],
+                [
+                    "Scripts",
+                    "Unused"
+                ],
+                [
+                    "Scripts",
+                    "Unused",
+                    "AABB"
+                ],
+                [
+                    "Scripts",
+                    "Unused",
+                    "CollisionManager"
+                ],
+                [
+                    "Scripts",
+                    "Unused",
+                    "detect"
+                ],
+                [
+                    "Scripts",
+                    "Unused",
+                    "oldSphere.bak"
+                ],
+                [
+                    "Sphere"
+                ],
+                [
+                    "Sphere 2"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "add_point"
+                ],
+                [
+                    "Textures",
+                    "end_game"
+                ],
+                [
+                    "Textures",
+                    "high_score_background"
+                ],
+                [
+                    "Textures",
+                    "white"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1517446348227994:84813",
+                "1570504019399894:114718",
+                "1570753455106874:647122",
+                "1570760614117554:1012517",
+                "1570763511505657:1410750",
+                "1571363487596910:826941",
+                "1571364060759847:864248",
+                "1571364064784225:867481",
+                "1571365293403311:1049785",
+                "1571706449664511:1294706",
+                "1571706502830686:1328856",
+                "1571708728954637:2139153",
+                "1571708728961922:2139389",
+                "1571708728973708:2139683",
+                "1571708728983355:2139919"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {}
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1552098887417312:171945"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

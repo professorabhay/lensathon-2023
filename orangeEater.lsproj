@@ -1,0 +1,307 @@
+{
+    "lens_id": "0b84ac3f-94bd-4f90-87f7-0dec6938a12e",
+    "document_id": "-1OqFH8GjTGpoPp2zZ3I",
+    "original_document_id": "dIqbcVOrO1eSDB40qpGf",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "dc409d3d53612781c865b6322b96870e",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_raise_your_eyebrows"
+            ],
+            "lens": "Eat Oranges",
+            "applicability": "1",
+            "lens_descriptors": "",
+            "sg": "false",
+            "git_friendly": "true",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "false",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Pair 2.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Sky.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Layer 1",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1571708728952881:2139141",
+                        "v": {
+                            "prefab": "1571365265034966:1015687",
+                            "mapping": [
+                                {
+                                    "k": "1571708728952881:2139141",
+                                    "v": "1571708728952881:2139141"
+                                },
+                                {
+                                    "k": "1571708728954637:2139153",
+                                    "v": "1571708728954637:2139153"
+                                },
+                                {
+                                    "k": "1571708728955232:2139157",
+                                    "v": "1571708728955232:2139157"
+                                },
+                                {
+                                    "k": "1571708728955920:2139339",
+                                    "v": "1571708728955920:2139339"
+                                },
+                                {
+                                    "k": "1571708728956276:2139343",
+                                    "v": "1571708728956276:2139343"
+                                },
+                                {
+                                    "k": "1571708728956734:2139349",
+                                    "v": "1571708728956734:2139349"
+                                },
+                                {
+                                    "k": "1571708728957418:2139353",
+                                    "v": "1571708728957418:2139353"
+                                },
+                                {
+                                    "k": "1571708728958522:2139373",
+                                    "v": "1571708728958522:2139373"
+                                },
+                                {
+                                    "k": "1571708728961922:2139389",
+                                    "v": "1571708728961922:2139389"
+                                },
+                                {
+                                    "k": "1571708728963262:2139393",
+                                    "v": "1571708728963262:2139393"
+                                },
+                                {
+                                    "k": "1571708728964582:2139576",
+                                    "v": "1571708728964582:2139576"
+                                },
+                                {
+                                    "k": "1571708728965736:2139581",
+                                    "v": "1571708728965736:2139581"
+                                },
+                                {
+                                    "k": "1571708728966900:2139588",
+                                    "v": "1571708728966900:2139588"
+                                },
+                                {
+                                    "k": "1571708728968236:2139592",
+                                    "v": "1571708728968236:2139592"
+                                },
+                                {
+                                    "k": "1571708728969438:2139627",
+                                    "v": "1571708728969438:2139627"
+                                },
+                                {
+                                    "k": "1571708728973708:2139683",
+                                    "v": "1571708728973708:2139683"
+                                },
+                                {
+                                    "k": "1571708728974879:2139687",
+                                    "v": "1571708728974879:2139687"
+                                },
+                                {
+                                    "k": "1571708728975560:2139869",
+                                    "v": "1571708728975560:2139869"
+                                },
+                                {
+                                    "k": "1571708728975877:2139873",
+                                    "v": "1571708728975877:2139873"
+                                },
+                                {
+                                    "k": "1571708728976179:2139879",
+                                    "v": "1571708728976179:2139879"
+                                },
+                                {
+                                    "k": "1571708728977228:2139883",
+                                    "v": "1571708728977228:2139883"
+                                },
+                                {
+                                    "k": "1571708728978144:2139903",
+                                    "v": "1571708728978144:2139903"
+                                },
+                                {
+                                    "k": "1571708728983355:2139919",
+                                    "v": "1571708728983355:2139919"
+                                },
+                                {
+                                    "k": "1571708728984083:2139923",
+                                    "v": "1571708728984083:2139923"
+                                },
+                                {
+                                    "k": "1571708728984855:2140105",
+                                    "v": "1571708728984855:2140105"
+                                },
+                                {
+                                    "k": "1571708728985192:2140109",
+                                    "v": "1571708728985192:2140109"
+                                },
+                                {
+                                    "k": "1571708728985557:2140115",
+                                    "v": "1571708728985557:2140115"
+                                },
+                                {
+                                    "k": "1571708728986155:2140119",
+                                    "v": "1571708728986155:2140119"
+                                },
+                                {
+                                    "k": "1571708728987052:2140139",
+                                    "v": "1571708728987052:2140139"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1570753453672478:645886",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1570753453348204:644619"
+                        },
+                        {
+                            "k": [
+                                "HOrange"
+                            ],
+                            "v": "1570753453376477:645008"
+                        },
+                        {
+                            "k": [
+                                "HOrange",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1570753453641401:645468"
+                        },
+                        {
+                            "k": [
+                                "Orange"
+                            ],
+                            "v": "1570753453642197:645474"
+                        },
+                        {
+                            "k": [
+                                "Orange",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1570753453671309:645880"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "",
+    "templateUrl": ""
+}
